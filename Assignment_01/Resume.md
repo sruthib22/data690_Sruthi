@@ -3,7 +3,7 @@
 ## __Who Am I ?__                                                                                                   
                     
 ### Sruthi Batchala
-### contact: +1 (667)910-1042
+##### contact: +1 (667)910-1042
    * __A Student__ - _MPS Data Science_
    * __A Programmer__ - _Python_, _Java_, _C_ 
    * __A singer__ - _Carnatic Music_
