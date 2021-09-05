@@ -1,6 +1,9 @@
-## __Who Am I ?__                                                 
+![sruthi pic](https://user-images.githubusercontent.com/89980785/132111445-3848417c-ff43-431b-813e-e1d2d267f210.jpeg)
+
+## __Who Am I ?__                                                                                                   
                     
 ### Sruthi Batchala
+### contact: +1 (667)910-1042
    * __A Student__ - _MPS Data Science_
    * __A Programmer__ - _Python_, _Java_, _C_ 
    * __A singer__ - _Carnatic Music_
@@ -9,22 +12,27 @@
 
 ------------------------------------------------------------------------------------------
 
-## __Goal__
+## __Aspiration__
 
-_I'd like to see myself as an AI Engineer in the span of next 5 years_
+_I'd like to see myself as an AI Engineer in the span of next 5 years who would like to combine the field of medicine with AI_
 
 ------------------------------------------------------------------------------------------
 
-## __Education__
+## __Educational Attainment__
 
 * __Masters__ :
-    - [ ]  _Pursuing MPS Data Science at University Of Maryland Baltimore County_
+    - [ ] University:  _University Of Maryland Baltimore County_
+    - [ ] Course: _MPS Data Science_
 * __B. Tech__ :
-    - [x] Course:  _Computer Science and Engineering
+    - [x] University: _Sridevi Womens Engineering College, Affiliated to JNTUH_
+    - [x] Course:  _Computer Science and Engineering_
     - [x] Duration: _2017 - 2021_
+    - [x] GPA: _8.0_ 
 * __High School__ :
+    - [x] College: _Sri Chaithanya Junior College_
     - [x] Course:  _Math, Physics and chemistry
     - [x] Duration: _2015 to 2017_
+    - [x] GPA: _9.4_
 
 -------------------------------------------------------------------------------------------
 
@@ -41,10 +49,15 @@ _Inspired by the best to be crème de la crème_
 
 ----------------------------------------------------------------------------------------------
 
-## __Industry__
+## __Making my way towards Expertise (Internships)__
 
-* __Data Engineer__ - _Wavelab Technologies - 2021(internship)_
-* __Python Developer__ - _Halcyon Technologies - 2019(internship)_
+* __Data Engineer__ 
+    - [x] Comapny: _Wavelab Technologies_
+    - [x] Dealt with: _Trained the given data set using ML models to predict sales of the client company_
+    
+* __Python Developer__  : 
+    - [x] Comapany: _Halcyon Technologies_
+    - [x] Dealt with: _worked on python, Data Base and ML, later was assigmed to work on a chat bot using Google Dialog flow which for a food delivery application
 
 _Embracing a new perspective of implementing what I learnt_
 
@@ -56,6 +69,14 @@ _Embracing a new perspective of implementing what I learnt_
 * __Tableau__ - _Udemy_
 
 > _Knowledge Comes, Wisdom Lingers_
+
+--------------------------------------------------------------------------------------------
+
+## __Language Skills__
+
+* __English__ 
+* __Telugu__
+* __Tamil__ - _intermediate_
 
 --------------------------------------------------------------------------------------------
 
@@ -82,6 +103,14 @@ _Music is the universal language of mankind (breaks language, cultural and econo
 * __scenery sketching__ - _painting competetion_
 
 ---------------------------------------------------------------------------------------------
+
+## __Social Activities__
+
+* __The Alpha School__ - _an organisation for children education and welfare_
+* __sandhana society women's welfare organisation__ 
+
+> _erving humans is equal to serving the lord_
+--------------------------------------------------------------------------------------------
 
 ## __Hobbies__
 
