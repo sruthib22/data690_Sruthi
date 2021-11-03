@@ -1,0 +1,389 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2015,1.0002900362,SE.ENR.PRIM.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2016,0.9997799993,SE.ENR.PRIM.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2017,0.9998999834000001,SE.ENR.PRIM.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2018,0.9989100099,SE.ENR.PRIM.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2019,0.99921,SE.ENR.PRIM.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2015,1.0024600029,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,2016,1.0050899982,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2017,1.0094799995,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2018,1.0113500357,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2019,1.0117199421,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2020,1.0097700357,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+11,2015,0.9937800169000001,SE.ENR.PRIM.FM.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+12,2016,0.994509995,SE.ENR.PRIM.FM.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+13,2017,0.9940699935,SE.ENR.PRIM.FM.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+14,2018,0.9940500259,SE.ENR.PRIM.FM.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+15,2019,0.9949300289,SE.ENR.PRIM.FM.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+16,2015,0.9987300038,SE.ENR.PRIM.FM.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+17,2016,1.0002599955,SE.ENR.PRIM.FM.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+18,2017,1.0025700331,SE.ENR.PRIM.FM.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+19,2018,1.0072200298,SE.ENR.PRIM.FM.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+20,2019,1.0083899498,SE.ENR.PRIM.FM.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+21,2015,1.1161799431,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+22,2016,1.1610399485,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+23,2017,1.1472500563,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+24,2019,1.0195800066,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+25,2020,1.0194100142,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+26,2016,1.0039900541,SE.ENR.PRIM.FM.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+27,2017,1.0037000179,SE.ENR.PRIM.FM.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+28,2018,1.0023299456,SE.ENR.PRIM.FM.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+29,2015,0.9984700084,SE.ENR.PRIM.FM.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+30,2016,0.9984700084,SE.ENR.PRIM.FM.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+31,2017,0.9975399971000001,SE.ENR.PRIM.FM.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+32,2018,0.9982299805,SE.ENR.PRIM.FM.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+33,2019,0.9985799789,SE.ENR.PRIM.FM.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+34,2015,0.8559299707,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+35,2016,0.8539800048,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+36,2017,0.8630099893000001,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+37,2018,0.8444100022000001,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+38,2019,0.8810799718000001,SE.ENR.PRIM.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+39,2015,0.9997500181000001,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+40,2016,0.9983299971,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+41,2017,0.9923400283,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+42,2018,0.9988399744,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+43,2019,1.0070500374,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+44,2015,568.0,SH.DTH.IMRT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+45,2016,560.0,SH.DTH.IMRT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+46,2017,554.0,SH.DTH.IMRT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+47,2018,549.0,SH.DTH.IMRT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+48,2019,542.0,SH.DTH.IMRT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+49,2015,90929.0,SH.DTH.IMRT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+50,2016,83166.0,SH.DTH.IMRT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+51,2017,75962.0,SH.DTH.IMRT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+52,2018,69038.0,SH.DTH.IMRT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+53,2019,63096.0,SH.DTH.IMRT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+54,2015,1482.0,SH.DTH.IMRT.MA,FRA,France,Europe & Central Asia,High income,Not classified
+55,2016,1479.0,SH.DTH.IMRT.MA,FRA,France,Europe & Central Asia,High income,Not classified
+56,2017,1490.0,SH.DTH.IMRT.MA,FRA,France,Europe & Central Asia,High income,Not classified
+57,2018,1512.0,SH.DTH.IMRT.MA,FRA,France,Europe & Central Asia,High income,Not classified
+58,2019,1533.0,SH.DTH.IMRT.MA,FRA,France,Europe & Central Asia,High income,Not classified
+59,2015,1331.0,SH.DTH.IMRT.MA,DEU,Germany,Europe & Central Asia,High income,Not classified
+60,2016,1357.0,SH.DTH.IMRT.MA,DEU,Germany,Europe & Central Asia,High income,Not classified
+61,2017,1380.0,SH.DTH.IMRT.MA,DEU,Germany,Europe & Central Asia,High income,Not classified
+62,2018,1395.0,SH.DTH.IMRT.MA,DEU,Germany,Europe & Central Asia,High income,Not classified
+63,2019,1399.0,SH.DTH.IMRT.MA,DEU,Germany,Europe & Central Asia,High income,Not classified
+64,2015,442275.0,SH.DTH.IMRT.MA,IND,India,South Asia,Lower middle income,IBRD
+65,2016,417596.0,SH.DTH.IMRT.MA,IND,India,South Asia,Lower middle income,IBRD
+66,2017,395131.0,SH.DTH.IMRT.MA,IND,India,South Asia,Lower middle income,IBRD
+67,2018,374519.0,SH.DTH.IMRT.MA,IND,India,South Asia,Lower middle income,IBRD
+68,2019,356238.0,SH.DTH.IMRT.MA,IND,India,South Asia,Lower middle income,IBRD
+69,2015,1113.0,SH.DTH.IMRT.MA,JPN,Japan,East Asia & Pacific,High income,Not classified
+70,2016,1052.0,SH.DTH.IMRT.MA,JPN,Japan,East Asia & Pacific,High income,Not classified
+71,2017,999.0,SH.DTH.IMRT.MA,JPN,Japan,East Asia & Pacific,High income,Not classified
+72,2018,949.0,SH.DTH.IMRT.MA,JPN,Japan,East Asia & Pacific,High income,Not classified
+73,2019,903.0,SH.DTH.IMRT.MA,JPN,Japan,East Asia & Pacific,High income,Not classified
+74,2015,700.0,SH.DTH.IMRT.MA,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+75,2016,661.0,SH.DTH.IMRT.MA,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+76,2017,625.0,SH.DTH.IMRT.MA,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+77,2018,593.0,SH.DTH.IMRT.MA,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+78,2019,563.0,SH.DTH.IMRT.MA,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+79,2015,200640.0,SH.DTH.IMRT.MA,PAK,Pakistan,South Asia,Lower middle income,Blend
+80,2016,198098.0,SH.DTH.IMRT.MA,PAK,Pakistan,South Asia,Lower middle income,Blend
+81,2017,195090.0,SH.DTH.IMRT.MA,PAK,Pakistan,South Asia,Lower middle income,Blend
+82,2018,191615.0,SH.DTH.IMRT.MA,PAK,Pakistan,South Asia,Lower middle income,Blend
+83,2019,187606.0,SH.DTH.IMRT.MA,PAK,Pakistan,South Asia,Lower middle income,Blend
+84,2015,12620.0,SH.DTH.IMRT.MA,USA,United States,North America,High income,Not classified
+85,2016,12465.0,SH.DTH.IMRT.MA,USA,United States,North America,High income,Not classified
+86,2017,12350.0,SH.DTH.IMRT.MA,USA,United States,North America,High income,Not classified
+87,2018,12236.0,SH.DTH.IMRT.MA,USA,United States,North America,High income,Not classified
+88,2019,12101.0,SH.DTH.IMRT.MA,USA,United States,North America,High income,Not classified
+89,2019,62.0,SG.AGE.RTRE.PL.FE,FRA,France,Europe & Central Asia,High income,Not classified
+90,2020,62.0,SG.AGE.RTRE.PL.FE,FRA,France,Europe & Central Asia,High income,Not classified
+91,2019,63.0,SG.AGE.RTRE.PL.FE,DEU,Germany,Europe & Central Asia,High income,Not classified
+92,2020,63.0,SG.AGE.RTRE.PL.FE,DEU,Germany,Europe & Central Asia,High income,Not classified
+93,2019,50.0,SG.AGE.RTRE.PL.FE,IND,India,South Asia,Lower middle income,IBRD
+94,2020,50.0,SG.AGE.RTRE.PL.FE,IND,India,South Asia,Lower middle income,IBRD
+95,2019,60.0,SG.AGE.RTRE.PL.FE,JPN,Japan,East Asia & Pacific,High income,Not classified
+96,2020,60.0,SG.AGE.RTRE.PL.FE,JPN,Japan,East Asia & Pacific,High income,Not classified
+97,2019,60.0,SG.AGE.RTRE.PL.FE,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+98,2020,60.0,SG.AGE.RTRE.PL.FE,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+99,2019,50.0,SG.AGE.RTRE.PL.FE,PAK,Pakistan,South Asia,Lower middle income,Blend
+100,2020,50.0,SG.AGE.RTRE.PL.FE,PAK,Pakistan,South Asia,Lower middle income,Blend
+101,2019,62.0,SG.AGE.RTRE.PL.FE,USA,United States,North America,High income,Not classified
+102,2020,62.0,SG.AGE.RTRE.PL.FE,USA,United States,North America,High income,Not classified
+103,2015,58.21,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+104,2016,57.86,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+105,2017,57.98,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+106,2018,58.98,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+107,2019,58.9,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+108,2015,45.53,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+109,2016,44.61,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+110,2017,43.94,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+111,2018,43.46,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+112,2019,42.55,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+113,2015,30.44,SL.EMP.1524.SP.MA.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+114,2016,30.54,SL.EMP.1524.SP.MA.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+115,2017,31.76,SL.EMP.1524.SP.MA.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+116,2018,33.04,SL.EMP.1524.SP.MA.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+117,2019,32.17,SL.EMP.1524.SP.MA.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+118,2015,46.46,SL.EMP.1524.SP.MA.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+119,2016,46.89,SL.EMP.1524.SP.MA.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+120,2017,47.17,SL.EMP.1524.SP.MA.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+121,2018,48.61,SL.EMP.1524.SP.MA.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+122,2019,50.44,SL.EMP.1524.SP.MA.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+123,2015,36.46,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+124,2016,35.42,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+125,2017,34.45,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+126,2018,33.48,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+127,2019,32.76,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+128,2015,40.2,SL.EMP.1524.SP.MA.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+129,2016,41.84,SL.EMP.1524.SP.MA.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+130,2017,41.98,SL.EMP.1524.SP.MA.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+131,2018,44.73,SL.EMP.1524.SP.MA.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+132,2019,46.0,SL.EMP.1524.SP.MA.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+133,2015,23.57,SL.EMP.1524.SP.MA.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+134,2016,23.84,SL.EMP.1524.SP.MA.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+135,2017,23.78,SL.EMP.1524.SP.MA.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+136,2018,22.35,SL.EMP.1524.SP.MA.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+137,2019,23.62,SL.EMP.1524.SP.MA.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+138,2015,58.1,SL.EMP.1524.SP.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+139,2016,58.09,SL.EMP.1524.SP.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+140,2017,58.12,SL.EMP.1524.SP.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+141,2018,58.15,SL.EMP.1524.SP.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+142,2019,58.23,SL.EMP.1524.SP.MA.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+143,2015,45.81,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+144,2016,46.95,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+145,2017,47.8,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+146,2018,47.48,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+147,2019,48.13,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+148,2019,62.0,SG.AGE.RTRE.PL.MA,FRA,France,Europe & Central Asia,High income,Not classified
+149,2020,62.0,SG.AGE.RTRE.PL.MA,FRA,France,Europe & Central Asia,High income,Not classified
+150,2019,63.0,SG.AGE.RTRE.PL.MA,DEU,Germany,Europe & Central Asia,High income,Not classified
+151,2020,63.0,SG.AGE.RTRE.PL.MA,DEU,Germany,Europe & Central Asia,High income,Not classified
+152,2019,50.0,SG.AGE.RTRE.PL.MA,IND,India,South Asia,Lower middle income,IBRD
+153,2020,50.0,SG.AGE.RTRE.PL.MA,IND,India,South Asia,Lower middle income,IBRD
+154,2019,60.0,SG.AGE.RTRE.PL.MA,JPN,Japan,East Asia & Pacific,High income,Not classified
+155,2020,60.0,SG.AGE.RTRE.PL.MA,JPN,Japan,East Asia & Pacific,High income,Not classified
+156,2019,60.0,SG.AGE.RTRE.PL.MA,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+157,2020,60.0,SG.AGE.RTRE.PL.MA,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+158,2019,55.0,SG.AGE.RTRE.PL.MA,PAK,Pakistan,South Asia,Lower middle income,Blend
+159,2020,55.0,SG.AGE.RTRE.PL.MA,PAK,Pakistan,South Asia,Lower middle income,Blend
+160,2019,62.0,SG.AGE.RTRE.PL.MA,USA,United States,North America,High income,Not classified
+161,2020,62.0,SG.AGE.RTRE.PL.MA,USA,United States,North America,High income,Not classified
+162,2015,97.5224227905,SE.PRM.CUAT.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+163,2016,97.6264724731,SE.PRM.CUAT.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+164,2017,97.5684661865,SE.PRM.CUAT.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+165,2019,97.6722869873,SE.PRM.CUAT.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+166,2015,100.0,SE.PRM.CUAT.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+167,2016,100.0,SE.PRM.CUAT.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+168,2018,100.0,SE.PRM.CUAT.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+169,2015,95.5062866211,SE.PRM.CUAT.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+170,2016,49.8061408997,SE.PRM.CUAT.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+171,2017,48.8252105713,SE.PRM.CUAT.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+172,2018,38.9729995728,SE.PRM.CUAT.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+173,2019,49.5546798706,SE.PRM.CUAT.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+174,2015,98.7738800049,SE.PRM.CUAT.ZS,USA,United States,North America,High income,Not classified
+175,2016,98.8771133423,SE.PRM.CUAT.ZS,USA,United States,North America,High income,Not classified
+176,2018,99.0315322876,SE.PRM.CUAT.ZS,USA,United States,North America,High income,Not classified
+177,2020,99.0557785034,SE.PRM.CUAT.ZS,USA,United States,North America,High income,Not classified
+178,2015,1.0,SG.BUS.REGT.EQ,AUS,Australia,East Asia & Pacific,High income,Not classified
+179,2016,1.0,SG.BUS.REGT.EQ,AUS,Australia,East Asia & Pacific,High income,Not classified
+180,2017,1.0,SG.BUS.REGT.EQ,AUS,Australia,East Asia & Pacific,High income,Not classified
+181,2018,1.0,SG.BUS.REGT.EQ,AUS,Australia,East Asia & Pacific,High income,Not classified
+182,2019,1.0,SG.BUS.REGT.EQ,AUS,Australia,East Asia & Pacific,High income,Not classified
+183,2020,1.0,SG.BUS.REGT.EQ,AUS,Australia,East Asia & Pacific,High income,Not classified
+184,2015,1.0,SG.BUS.REGT.EQ,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+185,2016,1.0,SG.BUS.REGT.EQ,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+186,2017,1.0,SG.BUS.REGT.EQ,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+187,2018,1.0,SG.BUS.REGT.EQ,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+188,2019,1.0,SG.BUS.REGT.EQ,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+189,2020,1.0,SG.BUS.REGT.EQ,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+190,2015,1.0,SG.BUS.REGT.EQ,FRA,France,Europe & Central Asia,High income,Not classified
+191,2016,1.0,SG.BUS.REGT.EQ,FRA,France,Europe & Central Asia,High income,Not classified
+192,2017,1.0,SG.BUS.REGT.EQ,FRA,France,Europe & Central Asia,High income,Not classified
+193,2018,1.0,SG.BUS.REGT.EQ,FRA,France,Europe & Central Asia,High income,Not classified
+194,2019,1.0,SG.BUS.REGT.EQ,FRA,France,Europe & Central Asia,High income,Not classified
+195,2020,1.0,SG.BUS.REGT.EQ,FRA,France,Europe & Central Asia,High income,Not classified
+196,2015,1.0,SG.BUS.REGT.EQ,DEU,Germany,Europe & Central Asia,High income,Not classified
+197,2016,1.0,SG.BUS.REGT.EQ,DEU,Germany,Europe & Central Asia,High income,Not classified
+198,2017,1.0,SG.BUS.REGT.EQ,DEU,Germany,Europe & Central Asia,High income,Not classified
+199,2018,1.0,SG.BUS.REGT.EQ,DEU,Germany,Europe & Central Asia,High income,Not classified
+200,2019,1.0,SG.BUS.REGT.EQ,DEU,Germany,Europe & Central Asia,High income,Not classified
+201,2020,1.0,SG.BUS.REGT.EQ,DEU,Germany,Europe & Central Asia,High income,Not classified
+202,2015,1.0,SG.BUS.REGT.EQ,IND,India,South Asia,Lower middle income,IBRD
+203,2016,1.0,SG.BUS.REGT.EQ,IND,India,South Asia,Lower middle income,IBRD
+204,2017,1.0,SG.BUS.REGT.EQ,IND,India,South Asia,Lower middle income,IBRD
+205,2018,1.0,SG.BUS.REGT.EQ,IND,India,South Asia,Lower middle income,IBRD
+206,2019,1.0,SG.BUS.REGT.EQ,IND,India,South Asia,Lower middle income,IBRD
+207,2020,1.0,SG.BUS.REGT.EQ,IND,India,South Asia,Lower middle income,IBRD
+208,2015,1.0,SG.BUS.REGT.EQ,JPN,Japan,East Asia & Pacific,High income,Not classified
+209,2016,1.0,SG.BUS.REGT.EQ,JPN,Japan,East Asia & Pacific,High income,Not classified
+210,2017,1.0,SG.BUS.REGT.EQ,JPN,Japan,East Asia & Pacific,High income,Not classified
+211,2018,1.0,SG.BUS.REGT.EQ,JPN,Japan,East Asia & Pacific,High income,Not classified
+212,2019,1.0,SG.BUS.REGT.EQ,JPN,Japan,East Asia & Pacific,High income,Not classified
+213,2020,1.0,SG.BUS.REGT.EQ,JPN,Japan,East Asia & Pacific,High income,Not classified
+214,2015,1.0,SG.BUS.REGT.EQ,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+215,2016,1.0,SG.BUS.REGT.EQ,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+216,2017,1.0,SG.BUS.REGT.EQ,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+217,2018,1.0,SG.BUS.REGT.EQ,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+218,2019,1.0,SG.BUS.REGT.EQ,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+219,2020,1.0,SG.BUS.REGT.EQ,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+220,2015,0.0,SG.BUS.REGT.EQ,PAK,Pakistan,South Asia,Lower middle income,Blend
+221,2016,0.0,SG.BUS.REGT.EQ,PAK,Pakistan,South Asia,Lower middle income,Blend
+222,2017,0.0,SG.BUS.REGT.EQ,PAK,Pakistan,South Asia,Lower middle income,Blend
+223,2018,0.0,SG.BUS.REGT.EQ,PAK,Pakistan,South Asia,Lower middle income,Blend
+224,2019,0.0,SG.BUS.REGT.EQ,PAK,Pakistan,South Asia,Lower middle income,Blend
+225,2020,1.0,SG.BUS.REGT.EQ,PAK,Pakistan,South Asia,Lower middle income,Blend
+226,2015,1.0,SG.BUS.REGT.EQ,USA,United States,North America,High income,Not classified
+227,2016,1.0,SG.BUS.REGT.EQ,USA,United States,North America,High income,Not classified
+228,2017,1.0,SG.BUS.REGT.EQ,USA,United States,North America,High income,Not classified
+229,2018,1.0,SG.BUS.REGT.EQ,USA,United States,North America,High income,Not classified
+230,2019,1.0,SG.BUS.REGT.EQ,USA,United States,North America,High income,Not classified
+231,2020,1.0,SG.BUS.REGT.EQ,USA,United States,North America,High income,Not classified
+232,2018,15.34722,SG.TIM.UWRK.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+233,2016,15.13889,SG.TIM.UWRK.FE,JPN,Japan,East Asia & Pacific,High income,Not classified
+234,2019,14.09722,SG.TIM.UWRK.FE,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+235,2015,15.875,SG.TIM.UWRK.FE,USA,United States,North America,High income,Not classified
+236,2016,15.91667,SG.TIM.UWRK.FE,USA,United States,North America,High income,Not classified
+237,2017,15.41667,SG.TIM.UWRK.FE,USA,United States,North America,High income,Not classified
+238,2018,15.375,SG.TIM.UWRK.FE,USA,United States,North America,High income,Not classified
+239,2019,15.33333,SG.TIM.UWRK.FE,USA,United States,North America,High income,Not classified
+240,2015,1021.0,SH.DTH.IMRT,AUS,Australia,East Asia & Pacific,High income,Not classified
+241,2016,1006.0,SH.DTH.IMRT,AUS,Australia,East Asia & Pacific,High income,Not classified
+242,2017,994.0,SH.DTH.IMRT,AUS,Australia,East Asia & Pacific,High income,Not classified
+243,2018,984.0,SH.DTH.IMRT,AUS,Australia,East Asia & Pacific,High income,Not classified
+244,2019,972.0,SH.DTH.IMRT,AUS,Australia,East Asia & Pacific,High income,Not classified
+245,2015,160601.0,SH.DTH.IMRT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+246,2016,147325.0,SH.DTH.IMRT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+247,2017,134739.0,SH.DTH.IMRT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+248,2018,123080.0,SH.DTH.IMRT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+249,2019,112595.0,SH.DTH.IMRT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+250,2015,2644.0,SH.DTH.IMRT,FRA,France,Europe & Central Asia,High income,Not classified
+251,2016,2641.0,SH.DTH.IMRT,FRA,France,Europe & Central Asia,High income,Not classified
+252,2017,2662.0,SH.DTH.IMRT,FRA,France,Europe & Central Asia,High income,Not classified
+253,2018,2701.0,SH.DTH.IMRT,FRA,France,Europe & Central Asia,High income,Not classified
+254,2019,2738.0,SH.DTH.IMRT,FRA,France,Europe & Central Asia,High income,Not classified
+255,2015,2401.0,SH.DTH.IMRT,DEU,Germany,Europe & Central Asia,High income,Not classified
+256,2016,2447.0,SH.DTH.IMRT,DEU,Germany,Europe & Central Asia,High income,Not classified
+257,2017,2487.0,SH.DTH.IMRT,DEU,Germany,Europe & Central Asia,High income,Not classified
+258,2018,2512.0,SH.DTH.IMRT,DEU,Germany,Europe & Central Asia,High income,Not classified
+259,2019,2517.0,SH.DTH.IMRT,DEU,Germany,Europe & Central Asia,High income,Not classified
+260,2015,851000.0,SH.DTH.IMRT,IND,India,South Asia,Lower middle income,IBRD
+261,2016,801578.0,SH.DTH.IMRT,IND,India,South Asia,Lower middle income,IBRD
+262,2017,756546.0,SH.DTH.IMRT,IND,India,South Asia,Lower middle income,IBRD
+263,2018,715531.0,SH.DTH.IMRT,IND,India,South Asia,Lower middle income,IBRD
+264,2019,678728.0,SH.DTH.IMRT,IND,India,South Asia,Lower middle income,IBRD
+265,2015,2068.0,SH.DTH.IMRT,JPN,Japan,East Asia & Pacific,High income,Not classified
+266,2016,1962.0,SH.DTH.IMRT,JPN,Japan,East Asia & Pacific,High income,Not classified
+267,2017,1862.0,SH.DTH.IMRT,JPN,Japan,East Asia & Pacific,High income,Not classified
+268,2018,1769.0,SH.DTH.IMRT,JPN,Japan,East Asia & Pacific,High income,Not classified
+269,2019,1682.0,SH.DTH.IMRT,JPN,Japan,East Asia & Pacific,High income,Not classified
+270,2015,1264.0,SH.DTH.IMRT,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+271,2016,1193.0,SH.DTH.IMRT,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+272,2017,1126.0,SH.DTH.IMRT,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+273,2018,1067.0,SH.DTH.IMRT,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+274,2019,1014.0,SH.DTH.IMRT,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+275,2015,355285.0,SH.DTH.IMRT,PAK,Pakistan,South Asia,Lower middle income,Blend
+276,2016,350590.0,SH.DTH.IMRT,PAK,Pakistan,South Asia,Lower middle income,Blend
+277,2017,345102.0,SH.DTH.IMRT,PAK,Pakistan,South Asia,Lower middle income,Blend
+278,2018,338766.0,SH.DTH.IMRT,PAK,Pakistan,South Asia,Lower middle income,Blend
+279,2019,331594.0,SH.DTH.IMRT,PAK,Pakistan,South Asia,Lower middle income,Blend
+280,2015,22725.0,SH.DTH.IMRT,USA,United States,North America,High income,Not classified
+281,2016,22444.0,SH.DTH.IMRT,USA,United States,North America,High income,Not classified
+282,2017,22234.0,SH.DTH.IMRT,USA,United States,North America,High income,Not classified
+283,2018,22023.0,SH.DTH.IMRT,USA,United States,North America,High income,Not classified
+284,2019,21779.0,SH.DTH.IMRT,USA,United States,North America,High income,Not classified
+285,2015,453.0,SH.DTH.IMRT.FE,AUS,Australia,East Asia & Pacific,High income,Not classified
+286,2016,446.0,SH.DTH.IMRT.FE,AUS,Australia,East Asia & Pacific,High income,Not classified
+287,2017,440.0,SH.DTH.IMRT.FE,AUS,Australia,East Asia & Pacific,High income,Not classified
+288,2018,435.0,SH.DTH.IMRT.FE,AUS,Australia,East Asia & Pacific,High income,Not classified
+289,2019,430.0,SH.DTH.IMRT.FE,AUS,Australia,East Asia & Pacific,High income,Not classified
+290,2015,69672.0,SH.DTH.IMRT.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+291,2016,64159.0,SH.DTH.IMRT.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+292,2017,58777.0,SH.DTH.IMRT.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+293,2018,54042.0,SH.DTH.IMRT.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+294,2019,49499.0,SH.DTH.IMRT.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+295,2015,1162.0,SH.DTH.IMRT.FE,FRA,France,Europe & Central Asia,High income,Not classified
+296,2016,1162.0,SH.DTH.IMRT.FE,FRA,France,Europe & Central Asia,High income,Not classified
+297,2017,1172.0,SH.DTH.IMRT.FE,FRA,France,Europe & Central Asia,High income,Not classified
+298,2018,1189.0,SH.DTH.IMRT.FE,FRA,France,Europe & Central Asia,High income,Not classified
+299,2019,1205.0,SH.DTH.IMRT.FE,FRA,France,Europe & Central Asia,High income,Not classified
+300,2015,1070.0,SH.DTH.IMRT.FE,DEU,Germany,Europe & Central Asia,High income,Not classified
+301,2016,1090.0,SH.DTH.IMRT.FE,DEU,Germany,Europe & Central Asia,High income,Not classified
+302,2017,1107.0,SH.DTH.IMRT.FE,DEU,Germany,Europe & Central Asia,High income,Not classified
+303,2018,1117.0,SH.DTH.IMRT.FE,DEU,Germany,Europe & Central Asia,High income,Not classified
+304,2019,1118.0,SH.DTH.IMRT.FE,DEU,Germany,Europe & Central Asia,High income,Not classified
+305,2015,408725.0,SH.DTH.IMRT.FE,IND,India,South Asia,Lower middle income,IBRD
+306,2016,383982.0,SH.DTH.IMRT.FE,IND,India,South Asia,Lower middle income,IBRD
+307,2017,361415.0,SH.DTH.IMRT.FE,IND,India,South Asia,Lower middle income,IBRD
+308,2018,341012.0,SH.DTH.IMRT.FE,IND,India,South Asia,Lower middle income,IBRD
+309,2019,322490.0,SH.DTH.IMRT.FE,IND,India,South Asia,Lower middle income,IBRD
+310,2015,955.0,SH.DTH.IMRT.FE,JPN,Japan,East Asia & Pacific,High income,Not classified
+311,2016,910.0,SH.DTH.IMRT.FE,JPN,Japan,East Asia & Pacific,High income,Not classified
+312,2017,863.0,SH.DTH.IMRT.FE,JPN,Japan,East Asia & Pacific,High income,Not classified
+313,2018,820.0,SH.DTH.IMRT.FE,JPN,Japan,East Asia & Pacific,High income,Not classified
+314,2019,779.0,SH.DTH.IMRT.FE,JPN,Japan,East Asia & Pacific,High income,Not classified
+315,2015,564.0,SH.DTH.IMRT.FE,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+316,2016,532.0,SH.DTH.IMRT.FE,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+317,2017,501.0,SH.DTH.IMRT.FE,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+318,2018,474.0,SH.DTH.IMRT.FE,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+319,2019,451.0,SH.DTH.IMRT.FE,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+320,2015,154645.0,SH.DTH.IMRT.FE,PAK,Pakistan,South Asia,Lower middle income,Blend
+321,2016,152492.0,SH.DTH.IMRT.FE,PAK,Pakistan,South Asia,Lower middle income,Blend
+322,2017,150012.0,SH.DTH.IMRT.FE,PAK,Pakistan,South Asia,Lower middle income,Blend
+323,2018,147151.0,SH.DTH.IMRT.FE,PAK,Pakistan,South Asia,Lower middle income,Blend
+324,2019,143988.0,SH.DTH.IMRT.FE,PAK,Pakistan,South Asia,Lower middle income,Blend
+325,2015,10105.0,SH.DTH.IMRT.FE,USA,United States,North America,High income,Not classified
+326,2016,9979.0,SH.DTH.IMRT.FE,USA,United States,North America,High income,Not classified
+327,2017,9884.0,SH.DTH.IMRT.FE,USA,United States,North America,High income,Not classified
+328,2018,9787.0,SH.DTH.IMRT.FE,USA,United States,North America,High income,Not classified
+329,2019,9678.0,SH.DTH.IMRT.FE,USA,United States,North America,High income,Not classified
+330,2015,58.69,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+331,2016,58.65,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+332,2017,58.5,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+333,2018,60.0,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+334,2019,60.38,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+335,2015,41.85,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+336,2016,40.8,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+337,2017,39.96,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+338,2018,39.26,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+339,2019,38.24,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+340,2015,26.19,SL.EMP.1524.SP.FE.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+341,2016,26.34,SL.EMP.1524.SP.FE.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+342,2017,26.86,SL.EMP.1524.SP.FE.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+343,2018,27.81,SL.EMP.1524.SP.FE.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+344,2019,28.28,SL.EMP.1524.SP.FE.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+345,2015,43.66,SL.EMP.1524.SP.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+346,2016,44.24,SL.EMP.1524.SP.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+347,2017,45.4,SL.EMP.1524.SP.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+348,2018,45.41,SL.EMP.1524.SP.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+349,2019,46.26,SL.EMP.1524.SP.FE.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+350,2015,9.29,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+351,2016,8.67,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+352,2017,8.13,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+353,2018,7.64,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+354,2019,7.42,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+355,2015,40.79,SL.EMP.1524.SP.FE.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+356,2016,42.57,SL.EMP.1524.SP.FE.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+357,2017,43.01,SL.EMP.1524.SP.FE.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+358,2018,46.68,SL.EMP.1524.SP.FE.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+359,2019,47.94,SL.EMP.1524.SP.FE.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+360,2015,27.99,SL.EMP.1524.SP.FE.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+361,2016,28.2,SL.EMP.1524.SP.FE.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+362,2017,28.17,SL.EMP.1524.SP.FE.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+363,2018,27.81,SL.EMP.1524.SP.FE.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+364,2019,27.21,SL.EMP.1524.SP.FE.ZS,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+365,2015,18.72,SL.EMP.1524.SP.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+366,2016,18.13,SL.EMP.1524.SP.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+367,2017,17.6,SL.EMP.1524.SP.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+368,2018,17.09,SL.EMP.1524.SP.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+369,2019,16.98,SL.EMP.1524.SP.FE.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+370,2015,44.95,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+371,2016,45.79,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+372,2017,47.08,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+373,2018,47.42,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+374,2019,47.92,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+375,2018,1.0,SE.ADT.1524.LT.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+376,2018,0.9696400166,SE.ADT.1524.LT.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+377,2017,0.8310899734,SE.ADT.1524.LT.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+378,2018,0.8065599799000001,SE.ADT.1524.LT.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+379,2019,0.8175899982,SE.ADT.1524.LT.FM.ZS,PAK,Pakistan,South Asia,Lower middle income,Blend
+380,2018,5.90278,SG.TIM.UWRK.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+381,2016,3.125,SG.TIM.UWRK.MA,JPN,Japan,East Asia & Pacific,High income,Not classified
+382,2019,4.375,SG.TIM.UWRK.MA,KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified
+383,2015,9.75,SG.TIM.UWRK.MA,USA,United States,North America,High income,Not classified
+384,2016,9.79167,SG.TIM.UWRK.MA,USA,United States,North America,High income,Not classified
+385,2017,9.875,SG.TIM.UWRK.MA,USA,United States,North America,High income,Not classified
+386,2018,9.54167,SG.TIM.UWRK.MA,USA,United States,North America,High income,Not classified
+387,2019,9.66667,SG.TIM.UWRK.MA,USA,United States,North America,High income,Not classified
